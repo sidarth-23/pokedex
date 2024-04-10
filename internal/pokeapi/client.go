@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/sidarth23/pokedexcli/internal/cache"
+	"github.com/sidarth-23/pokedexcli/internal/cache"
 )
 
 // Client -
